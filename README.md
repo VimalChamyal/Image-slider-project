@@ -1,7 +1,7 @@
 # Image-slider-project
 This image slider project is made by me using HTML, CSS and vanilla JavaScript. One can see images just by clicking on the arrow buttons provided.
 
-I've deployed the project using netlify. Check it here: <a href="https://memories-slide-vc.netlify.app/">Click Here</a>
+I've deployed the project using netlify. Check it here: <a href="https://memories-slide-vc.netlify.app/">Click Here</a> </br>
 I've deployed the project using Github Pages as well. Check it here: <a href="https://vimalchamyal.github.io/Image-slider-project/">Click Here</a>
 
 This is how it looks:
